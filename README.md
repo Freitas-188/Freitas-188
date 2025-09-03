@@ -1,9 +1,21 @@
-## Olá Devs, eu sou o Arthur Freitas 👋
+
+  <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/0515dca2-d242-4e5c-bcff-1f331742ef48" />
+
+<br>- 🔭 Graduando bacharelado em Ciência da Computação
+- 🌱 Atualmente estou estudando C, java, React, HTML e CSS, com o intuito de criar projetos próprios e aperfeiçoar minhas técnicas em busca de virar um desenvolvedor <strong>Full Stack </strong>
+- ⚡ No meu tempo livre, gosto de praticar esportes, sair com os amigos e jogar jogos eletrônicos, tranquilizando a mente e voltando 100% para codar novamente! 
+
+##
 
 
-- 🔭 Graduando bacharelado em Ciência da Computação
-- 🌱 Atualmente estou estudando C, java, React, HTML e CSS
-- ⚡ Gosto de praticar esportes, sair com os amigos e jogar jogos eletrônicos
+<div style="display: flex; gap: 20px;" align="left">
+  <a href="https://github.com/Freitas-188">
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Freitas-188&show_icons=true&theme=merko&card_width=180" />
+  </a>
+  <a href="https://github.com/Freitas-188">
+    <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freitas-188&layout=compact&theme=merko&langs_count=8&card_width=180" />
+  </a>
+</div>
 
 ##
 
